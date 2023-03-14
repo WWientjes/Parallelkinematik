@@ -1,3 +1,3 @@
-# Parallelkinematik
+# Quaternionen und Kinematik
 
 Hello
